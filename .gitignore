@@ -1,0 +1,13 @@
+.DS_Store
+.build/
+**/.build/
+.swiftpm/
+**/.swiftpm/
+**/xcuserdata/
+.gradle/
+.kotlin/
+**/build/
+local.properties
+Configuration/Local.xcconfig
+*.jks
+*.keystore
